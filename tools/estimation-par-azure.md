@@ -1,5 +1,9 @@
 # Estimation par Azure
 
+## Lien
+
+https://www.microsoft.com/en-us/sustainability/emissions-impact-dashboard
+
 ## Créé par
 
 Microsoft

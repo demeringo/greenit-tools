@@ -1,12 +1,17 @@
 # CarbonTracker
 
+## Lien 
+
+https://github.com/lfwa/carbontracker
+
 ## Créé par
 
 
 
 ## Description
 
-"Carbontracker est un outil de suivi et de prédiction de la consommation d'énergie et de l'empreinte carbone des modèles d'apprentissage (IA)"
+« Carbontracker est un outil de suivi et de prédiction de la consommation d'énergie et de l'empreinte carbone des 
+modèles d'apprentissage (IA) »
 
 ## Modèle économique
 

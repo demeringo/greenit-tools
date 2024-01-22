@@ -1,12 +1,17 @@
 # Carbon Aware SDK
 
+## Lien
+
+https://github.com/Green-Software-Foundation/carbon-aware-sdk
+
 ## Créé par
 
 
 
 ## Description
 
-"A Web API and command line for obtaining unified forecast and historical power grid emissions data based on location and time, to help build Carbon Aware software."
+« A Web API and command line for obtaining unified forecast and historical power grid emissions data based on location
+and time, to help build Carbon Aware software. »
 
 ## Modèle économique
 

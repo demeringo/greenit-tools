@@ -1,5 +1,9 @@
 # Estimation par AWS
 
+## Lien
+
+https://aws.amazon.com/fr/blogs/aws/new-customer-carbon-footprint-tool/
+
 ## Créé par
 
 Amazon
