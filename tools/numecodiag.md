@@ -6,11 +6,11 @@ https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecocon
 
 ## Créé par
 
-MiNumEco
+La MiNumEco (mission interministérielle pour un numérique écoresponsable)
 
 ## Description
 
-Permet à l'utilisateur de s'évaluer sur le RGESN avec des questions
+Extension de navigateur permettant à l'utilisateur de s'auto-évaluer sur les critères du RGESN de la MiNumEco sur la base de questions.
 
 ## Modèle économique
 
@@ -18,27 +18,28 @@ Gratuit
 
 ## Modèle de partage
 
-
+FOOS
 
 ## L'outil est-il multicritère ?
 
-NA
+Non applicable.
 
 ## Transparence de l'algo et des données
 
-NA
+Le RGESN est librement disponible.
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-NA
+Non applicable.
 
 ## Qualités et avantages
 
-
+- Gratuit et facile à comprendre
 
 ## Inconvénients et limites
 
-Ergonomie inadaptée à l'usage
+- Le choix d'une extension de navigateur n'est pas adapté à cet usage.
+- Pas de vérification automatique des règles qui peuvent l'être.
 
 ## Commentaires
 
