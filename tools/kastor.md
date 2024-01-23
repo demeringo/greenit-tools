@@ -1,46 +1,55 @@
 # Kastor
 
-## Lien
+## Liens
 
+https://kastor.green/audits
 https://www.specinov.fr/bao/kastor-audit-ecoconception
 
 ## Créé par
 
-Specinov
+Specinov, une ESN / Agence.
 
 ## Description
 
-Audit en ligne à base d'URL
+Site permettant d'analyser une URL, sur le modèle d'EcoIndex.
+
+Une partie des résultats est basée sur Lighthouse.
+
+- Donne des notes entre 0 et 100 pour l'accessibilité et l'écoconception 
+- Estime l'empreinte carbone de la page
+- Indique si l'hébergeur est « vert »
 
 ## Modèle économique
 
-
+Analyse d'URL gratuite qui sert à la promotion de l'agence.
 
 ## Modèle de partage
 
-
+A priori pas open source.
 
 ## L'outil est-il multicritère ?
 
-
+Non.
 
 ## Transparence de l'algo et des données
 
-Utilise co2.js, avec le modèle sustainable web design 
+Le mode de calcul des émissions n'est pas fourni.
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-Pas d'infos sur l'accessibilité, mais ça ressemble à lighthouse
+Le mode de calcul des émissions n'est pas fourni.
 
 ## Qualités et avantages
 
-Simple et fonctionne
-
+- Simple et fonctionne
 
 ## Inconvénients et limites
 
+- Ne peut analyser qu'une page publique à fois (et deux par jour si on ne paye pas)
+- Monocritère
+- Données et algorithmes non fournis 
 
 ## Commentaires
 
-Voir co2.js
+Outil promotionnel qui a peu n'a pas d'intérêt par rapport à ses concurrents.
 
