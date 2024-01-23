@@ -8,11 +8,11 @@
 
 ## Créé par
 
-cnumr
+Collectif Conception Numérique Responsable (univers de GreenIT.fr).
 
 ## Description
 
-Analyse du poids de pages web et de bonnes pratiques techniques
+Extension de navigateur permettant d'avoir l'EcoIndex de pages ainsi qu'une analyse technique de bonnes pratiques 
 
 ## Modèle économique
 
@@ -24,25 +24,32 @@ FOOS
 
 ## L'outil est-il multicritère ?
 
-Voir écoIndex
+Voir [EcoIndex](./ecoindex.md)
 
 ## Transparence de l'algo et des données
 
-Voir écoIndex
+Voir [EcoIndex](./ecoindex.md)
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-Voir écoIndex
+Voir [EcoIndex](./ecoindex.md)
 
 ## Qualités et avantages
 
-Facile à utiliser, gratuit
+Voir [EcoIndex](./ecoindex.md)
+
+- Facile à utiliser
+- Gratuit
+- Très connu
+- Résoud une partie des limites d'écoindex : il est possible d'analyser un parcours client, des pages non déployées publiques, et.
 
 ## Inconvénients et limites
 
-Bugs, chiffres non fiables, ne gère pas les SPA
+Voir [EcoIndex](./ecoindex.md)
+
+- Quelques bugs 
+- Ne gère pas les SPA
 
 ## Commentaires
 
-Donne une métrique qui peut être améliorée, permet d'analyser rapidement des pratiques techniques sur une page
-
+Permet d'analyser rapidement un parcours clients et d'avoir rapidement une métrique technique qui peut être suivie (l'écoindex) et des pistes d'améliorations techniques.
