@@ -49,6 +49,7 @@ Le calcul de l'empreinte est réalisée via une formule implémentée dans le co
 - Gratuit
 - Permet d'avoir un classement relatif
 - Très connu
+- Graphiquement sympa
 
 ## Inconvénients et limites
 

@@ -71,6 +71,7 @@ Dans CO2.js, seules le serveur et le réseau sont estimés.
 - Monocritère
 - Ne peut faire que des estimations
 - Se base uniquement sur les données réseaux, ce qui est un proxy très partiel
+- Biais de linéarité
 
 ## Commentaires
 
