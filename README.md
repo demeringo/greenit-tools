@@ -3,6 +3,10 @@
 
 # Work in progress
 
+## Outils basés sur [EcoIndex](./tools/ecoindex.md)
+
+- [GreenIT analysis](./tools/green-it-analysis.md)
+- [PAGIEL](./tools/pagiel.md)
 
 ## Outils basés sur [CO2.js](./tools/co2-js.md)
 

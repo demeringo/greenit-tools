@@ -6,11 +6,12 @@ https://github.com/Zenika/pagiel
 
 ## Créé par
 
-Zenika
+Zenika, ESN
 
 ## Description
 
-Analyse et historisation de données sur des pages web : Ecoindex, web vitals, énergie dépensée par le navigateur
+Outil basé sur docker compose qui récupère et historise des données techniques sur des pages web issus de PowerAPI, SiteSpeed, Yellow Lab Tools (core web vitals) et GreenIt Analysis.
+Permet de créer des graphiques avec l'évolution de ces indicateurs dans le temps.
 
 ## Modèle économique
 
@@ -22,23 +23,27 @@ FOOS
 
 ## L'outil est-il multicritère ?
 
-Voir écoIndex
+Voir [GreenIT analysis](./green-it-analysis.md)
 
 ## Transparence de l'algo et des données
 
-Voir écoIndex
+Voir [GreenIT analysis](./green-it-analysis.md)
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-Voir écoIndex
+Voir [GreenIT analysis](./green-it-analysis.md)
 
 ## Qualités et avantages
 
+Voir [GreenIT analysis](./green-it-analysis.md)
 
+- Permet d'avoir un historique et des dashboards graphiques
 
 ## Inconvénients et limites
 
-l-Limites des chiffres d'écoindex, difficile à installer et utiliser
+Voir [GreenIT analysis](./green-it-analysis.md)
+
+- Difficile à installer et à utiliser
 
 ## Commentaires
 
