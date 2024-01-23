@@ -6,7 +6,7 @@ https://ecograder.com/
 
 ## Créé par
 
-Mightybytes, une agence basée à Chicago?
+Mightybytes, une agence basée à Chicago
 
 ## Description
 
@@ -14,7 +14,7 @@ Site permettant d'analyser une URL, sur le modèle d'EcoIndex.
 
 Une partie des résultats est basée sur Lighthouse.
 
-- Donne une note de A à G grâce à un « digital carbon rating system »
+- Donne une note de A à E grâce à un « digital carbon rating system »
 - Estime l'empreinte carbone de la page
 - Donne des données techniques come le poids de la page et comment il est réparti entre les ressources
 - Donne des pistes d'améliorations techniques (réduire la taille de la page, supprimer le code non utilisé, ...)
@@ -48,12 +48,14 @@ Voir [CO2.js](./co2-js.md).
 Voir [CO2.js](./co2-js.md).
 
 - Simple à utiliser, gratuit et graphiquement sympa.
+- Donne des recomandations
 
 ## Inconvénients et limites
 
 Voir [CO2.js](./co2-js.md).
 
 - Ne peut analyser qu'une page publique à fois
+- Lent
 
 ## Commentaires
 

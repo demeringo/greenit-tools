@@ -6,11 +6,18 @@ https://www.websitecarbon.com/
 
 ## Créé par
 
-Wholegrain Digital
+Wholegrain Digital, une agence basé à Londres, spécialisée dans les sites wordpress.
 
 ## Description
 
-Analyse d'une URL, donne une note et un classement de la page, une estimation de l'empreinte carbone, si l'hébergeur utilise des renouvelables
+
+Site permettant d'analyser une URL, sur le modèle d'EcoIndex.
+
+Une partie des résultats est basée sur Lighthouse.
+
+- Donne une note de A à F 
+- Estime l'empreinte carbone de la page
+- Indique si l'hébergeur est « vert »
 
 ## Modèle économique
 
@@ -18,7 +25,7 @@ Site public
 
 ## Modèle de partage
 
-A priori pas OS
+En partie open source car basé sur [CO2.js](./co2-js.md).
 
 ## L'outil est-il multicritère ?
 
@@ -26,19 +33,23 @@ Non
 
 ## Transparence de l'algo et des données
 
-Utilise le modèle sustainable web design
+Voir [CO2.js](./co2-js.md).
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-Utilise le modèle sustainable web design
+Voir [CO2.js](./co2-js.md).
 
 ## Qualités et avantages
 
-Simple à utiliser 
+Voir [CO2.js](./co2-js.md).
+
+- Simple à utiliser, gratuit et graphiquement sympa.
 
 ## Inconvénients et limites
 
-Une page à fois, publique, biais de linéarité, monocritère, très  lent
+Voir [CO2.js](./co2-js.md).
+
+- Ne peut analyser qu'une page publique à fois
 
 ## Commentaires
 
