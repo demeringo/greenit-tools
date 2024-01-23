@@ -6,11 +6,13 @@ https://muchas-glacias.com/
 
 ## Créé par
 
-La Banquise (agence)
+La Banquise, une agence Web
 
 ## Description
 
-Combinaison de lighthouse et ecoindex
+Donne des indicateurs sur une page web à partir de son URL.
+
+Basé sur lighthouse et [EcoIndex](./ecoindex.md)
 
 ## Modèle économique
 
@@ -22,15 +24,15 @@ Partiellement OS (EcoIndex)
 
 ## L'outil est-il multicritère ?
 
-Voir EcoIndex
+Voir [EcoIndex](./ecoindex.md)
 
 ## Transparence de l'algo et des données
 
-Voir EcoIndex
+Voir [EcoIndex](./ecoindex.md)
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-
+Voir [EcoIndex](./ecoindex.md)
 
 ## Qualités et avantages
 
@@ -38,7 +40,7 @@ Graphiquement sympa
 
 ## Inconvénients et limites
 
-Voir EcoIndex
+Voir [EcoIndex](./ecoindex.md)
 
 ## Commentaires
 
