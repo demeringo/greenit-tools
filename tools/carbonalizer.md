@@ -10,7 +10,7 @@ Richard Hanna
 
 ## Description
 
-Estimation de l'empreinte carbone de la navigation d'un internaute à partir du 1byte model du shift project
+Extension de navigateur donnant une estimation de l'empreinte carbone de la navigation d'un internaute à partir de la bande passante utilisée.
 
 ## Modèle économique
 
@@ -26,21 +26,21 @@ Non
 
 ## Transparence de l'algo et des données
 
-1 byte model
+Utilise le 1 byte model du Shift Project.
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-1 byte model
+Utilise le 1 byte model du Shift Project.
 
 ## Qualités et avantages
 
-Facile à utiliser, gratuit
+- Facile à utiliser, gratuit
 
 ## Inconvénients et limites
 
-Biais de linéarité
+- Limites du 1 byte model : surestimation, biais de linéarité
 
 ## Commentaires
 
-Outil de sensibilisation
+Outil de sensibilisation.
 
