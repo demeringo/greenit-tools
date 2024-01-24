@@ -24,19 +24,19 @@ FOOS
 
 ## L'outil est-il multicritère ?
 
-NA
+Non applicable.
 
 ## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
-NA
+Non applicable.
 
 ## Transparence de l'algo et des données
 
-NA
+Non applicable.
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-NA
+Non applicable.
 
 ## Qualités et avantages
 

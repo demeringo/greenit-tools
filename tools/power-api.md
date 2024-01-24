@@ -10,7 +10,7 @@ Romain Rouvoy
 
 ## Description
 
-Evaluation de l'énergie dépensée par un processus
+Evaluation de l'énergie dépensée par un processus sur une machine physique, y compris au sein d'une VM hébergé par cette machine.
 
 ## Modèle économique
 
@@ -22,14 +22,15 @@ FOOS
 
 ## L'outil est-il multicritère ?
 
-NA
+Non applicable.
 
 ## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
+Non applicable.
 
 ## Transparence de l'algo et des données
 
-Oui
+Non applicable.
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
@@ -41,9 +42,10 @@ NA
 
 ## Inconvénients et limites
 
-Il faut un agent sur la machine physique
+
+- Ne peut pas être installé sur Mac
+- Ne peut pas être utilisé sans connexion avec la machine physique
 
 ## Commentaires
 
-Difficile à installer, ne peut pas être utilisé sur le cloud
 
