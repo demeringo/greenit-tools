@@ -10,7 +10,9 @@ Hubblo
 
 ## Description
 
-Evaluation de l'énergie dépensée par un processus
+Evaluation de l'énergie dépensée par un processus sur une machine physique, y compris au sein d'une VM hébergé par cette machine.
+
+Fournit des graphiques avec l'évolution dans le temps/
 
 ## Modèle économique
 
@@ -26,10 +28,11 @@ NA
 
 ## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
+NA
 
 ## Transparence de l'algo et des données
 
-Oui
+NA
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
@@ -37,13 +40,12 @@ NA
 
 ## Qualités et avantages
 
-Beaux graphiques
 
 ## Inconvénients et limites
 
-Il faut un agent sur la machine physique
+- Ne peut pas être installé sur Mac
+- Ne peut pas être utilisé sans connexion avec la machine physique
 
 ## Commentaires
 
-
-
+Un des outils connus et classiques
