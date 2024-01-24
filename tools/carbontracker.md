@@ -26,7 +26,6 @@ FOOS
 
 ## L'outil est-il multicritère ?
 
-
 Non
 
 ## Transparence de l'algo et des données
@@ -49,7 +48,7 @@ L'énergie est probablement estimée à partir d'appels systèmes.
 
 - Monocritère, basé sur des estimations
 - Ne gère qu'un seul programme sur une seule machine.
-- Le PUE ne peut pas être exact
+- Les chiffres nepeuvent pas être à jour
 - Difficile d'utiliser des données plus fines pour le PUE, le mix électrique, etc.
 
 ## Commentaires
