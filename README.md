@@ -14,7 +14,33 @@
 - [EcoGrader](./tools/ecograder.md)
 - [WebSiteCarbon](./tools/websitecarbon.md)
 
-## Tous les outils
+
+## Calcul à partir d'une URL
+
+- [EcoIndex](./tools/ecoindex.md)
+- [MuchasGlacias](./tools/muchas-glacias.md)
+- [EcoGrader](./tools/ecograder.md)
+- [WebSiteCarbon](./tools/websitecarbon.md)
+- [Kastor](./tools/kastor.md)
+
+## Calcul dans un programme (avec import de librairie)
+
+- [CO2.js](./tools/co2-js.md)
+- [CarbonTracker](./tools/carbontracker.md)
+
+## Extensions de navigateur
+
+- [EcoIndex](./tools/ecoindex.md)
+- [GreenIT analysis](./tools/green-it-analysis.md)
+- [Carbonalizer](./tools/carbonalizer.md)
+- [NumEcoDiag](./tools/numecodiag.md)
+
+## Outils de calcul en ligne 
+
+- [Calculateur Green Algorithms](./tools/calculateur-green-algorithms.md)
+- [ML Co2 Impact](./tools/ml-co2-impact.md)
+
+## Tous les outils par ordre alphabétique
 
 - [Aguaro](./tools/aguaro.md)
 - [Api Boavizta](./tools/api-boavizta.md)

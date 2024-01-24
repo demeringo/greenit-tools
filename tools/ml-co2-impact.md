@@ -6,11 +6,11 @@ https://mlco2.github.io/impact/
 
 ## Créé par
 
-Des chercheurs
+Des chercheurs : Victor Schmidt, Alexandra (Sasha) Luccioni, Alexandre Lacoste, Thomas Dandres
 
 ## Description
 
-Calcule l'empreinte carbone de l'entrainement d'un modèle avec le nombre de serveur, le teps d'usage, la localisation
+Calcule l'empreinte carbone de l'entrainement d'un modèle de machine learning avec le nombre de serveurs, le temps d'usage, la localisation
 
 ## Modèle économique
 
@@ -18,7 +18,7 @@ Site public
 
 ## Modèle de partage
 
-
+FOOS
 
 ## L'outil est-il multicritère ?
 
@@ -26,21 +26,23 @@ Non
 
 ## Transparence de l'algo et des données
 
-
+Open source, le code et les données sont sur github
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?
 
-
+Les données sont en dur dans le code, récupérées à partir de papiers cités.
 
 ## Qualités et avantages
 
-Simple à utiliser
+- Simple à utiliser
 
 ## Inconvénients et limites
 
-Ciblé pour un usage spécifique, biais de linéarité
+- Monocritère
+- Biais de linéarité
+- Ciblé pour un usage spécifique
 
 ## Commentaires
 
 
-
+Outil pragmatique pour avoir un ordre de grandeur.
