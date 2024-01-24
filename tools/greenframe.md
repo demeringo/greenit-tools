@@ -24,6 +24,9 @@ Partiellement open source
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+
 ## Transparence de l'algo et des données
 
 Estimation de l'électricité consommée et transformation en empreinte carbone

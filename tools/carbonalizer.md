@@ -24,6 +24,10 @@ FOOS
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Le 1 byte model prend partiellement en compte la fabrication des appareils.
+
 ## Transparence de l'algo et des données
 
 Utilise le 1 byte model du Shift Project.

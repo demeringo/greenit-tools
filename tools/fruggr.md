@@ -22,6 +22,7 @@ Pas clair ! Evalue 50 KPI avec plusieurs référentiels, mais on ne sait pas com
 
 ## L'outil est-il multicritère ?
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
 
 ## Transparence de l'algo et des données

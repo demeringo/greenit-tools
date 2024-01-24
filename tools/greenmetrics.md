@@ -24,6 +24,8 @@ Payant
 
 A priori non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
 ## Transparence de l'algo et des données
 
 Il y a une page d'explication : https://greenmetrics.io/blog/web-impact-score-site-web, on comprend qu'ils se basent

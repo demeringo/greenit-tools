@@ -20,6 +20,7 @@ Analyse cloudOps, greenOps et finOps. »
 ## L'outil est-il multicritère ?
 
 Non
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
 ## Transparence de l'algo et des données
 

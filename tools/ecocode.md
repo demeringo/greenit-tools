@@ -24,6 +24,10 @@ FOOS
 
 NA
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+NA
+
 ## Transparence de l'algo et des données
 
 Oui

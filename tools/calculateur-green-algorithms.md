@@ -24,6 +24,10 @@ FOOS
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Non
+
 ## Transparence de l'algo et des données
 
 La formule est sur la page d'accueil. Des liens amènent à des documentations et publications liées.

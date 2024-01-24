@@ -24,6 +24,9 @@ A climate related spend analysis for AWS.
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+
 ## Transparence de l'algo et des données
 
 

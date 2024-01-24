@@ -25,6 +25,10 @@ FOOS
 
 Voir [GreenIT analysis](./green-it-analysis.md)
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Voir [GreenIT analysis](./green-it-analysis.md)
+
 ## Transparence de l'algo et des données
 
 Voir [GreenIT analysis](./green-it-analysis.md)

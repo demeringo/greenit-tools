@@ -23,6 +23,7 @@ and time, to help build Carbon Aware software. »
 
 ## L'outil est-il multicritère ?
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
 
 ## Transparence de l'algo et des données

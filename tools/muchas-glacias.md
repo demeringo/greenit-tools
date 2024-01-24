@@ -26,6 +26,10 @@ Partiellement OS (EcoIndex)
 
 Voir [EcoIndex](./ecoindex.md)
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Voir [EcoIndex](./ecoindex.md)
+
 ## Transparence de l'algo et des données
 
 Voir [EcoIndex](./ecoindex.md)

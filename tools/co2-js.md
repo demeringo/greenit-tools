@@ -25,6 +25,10 @@ FOOS
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Partiellement
+
 ## Transparence de l'algo et des données
 
 L'outil est open source.

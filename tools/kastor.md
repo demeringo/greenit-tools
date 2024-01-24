@@ -31,6 +31,10 @@ A priori pas open source.
 
 Non.
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+L'information n'est pas fournie.
+
 ## Transparence de l'algo et des données
 
 Le mode de calcul des émissions n'est pas fourni.

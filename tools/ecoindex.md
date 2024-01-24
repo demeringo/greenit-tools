@@ -33,6 +33,10 @@ FOOS
 
 EcoIndex donne une estimation de l'empreinte en émission de gaz à effets de serre et en eau de l'affichage de la page.
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Oui
+
 ## Transparence de l'algo et des données
 
 Le calcul de l'empreinte est réalisée via une formule implémentée dans le code source qui est basée sur une ACV d'un site qui n'est pas publique.

@@ -24,8 +24,10 @@ a solution to monitor in real-time the CO2 emissions of IT services, virtual mac
 
 Non
 
-## Transparence de l'algo et des données
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
 
+
+## Transparence de l'algo et des données
 
 
 ## Quelle base de données, algorithme ou modèle est utilisé ?

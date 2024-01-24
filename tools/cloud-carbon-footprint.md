@@ -25,6 +25,9 @@ Au moins partiellement OS
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+
 ## Transparence de l'algo et des données
 
 Il y a une page dédiée avec les formules : https://www.cloudcarbonfootprint.org/docs/methodology/

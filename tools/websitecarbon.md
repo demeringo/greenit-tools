@@ -31,6 +31,10 @@ En partie open source car basé sur [CO2.js](./co2-js.md).
 
 Non
 
+## Est-ce que d'autres phases que l'usage sont prises en compte ?
+
+Partiellement (voir [CO2.js](./co2-js.md))
+
 ## Transparence de l'algo et des données
 
 Voir [CO2.js](./co2-js.md).
