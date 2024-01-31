@@ -1,7 +1,7 @@
 # Référentiel d'outils de mesure d'impact environnemental du numérique
 
 
-# Work in progress
+# Work in progress !
 
 ## Outils basés sur [EcoIndex](./tools/ecoindex.md)
 
@@ -44,9 +44,11 @@
 
 - [Aguaro](./tools/aguaro.md)
 - [Api Boavizta](./tools/api-boavizta.md)
+- [BAgent](./tools/boagent.md)
 - [Calculateur Green Algorithms.md](./tools/calculateur-green-algorithms.md)
 - [Carbon Aware SDK](./tools/carbon-aware-sdk.md)
 - [Carbonalizer](./tools/carbonalizer.md)
+- [Carbonifer](./tools/carbonifer.md)
 - [Carbonscore](./tools/carbonscore.md)
 - [Carbontracker](./tools/carbontracker.md)
 - [Cloud Carbon Footprint](./tools/cloud-carbon-footprint.md)
@@ -70,6 +72,7 @@
 - [Globemallow.io](./tools/globemallow.io.md)
 - [Green cost explorer](./tools/green-cost-explorer.md)
 - [GreenIT analysis](./tools/green-it-analysis.md)
+- [Green Pixie](./tools/green-pixies.md)
 - [Greenframe](./tools/greenframe.md)
 - [Greenmetrics](./tools/greenmetrics.md)
 - [Greenoco](./tools/greenoco.md)
@@ -84,6 +87,8 @@
 - [Pagiel](./tools/pagiel.md)
 - [PowerAPI](./tools/power-api.md)
 - [Scaphandre](./tools/scaphandre.md)
+- [Tanaguru](./tools/tanaguru.md)
 - [Tracarbon](./tools/tracarbon.md)
+- [Verdikt](./tools/verdikt.md)
 - [WebsiteCarbon](./tools/websitecarbon.md)
 - [Wedeex](./tools/wedeex.md)

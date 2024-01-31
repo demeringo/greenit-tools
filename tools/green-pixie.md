@@ -1,16 +1,14 @@
-# Aguaro - My IT Footprint
+# Carbonifer
 
-## Lien 
+## Lien
 
-https://aguaro.io/fr
+https://greenpixie.com/
 
 ## Créé par
 
 
-
 ## Description
 
-Agaro est une solution fonctionnant sur ServiceNow pour vous aider à mesurer et réduire votre impact carbone et vos déchets électroniques
 
 ## Modèle économique
 

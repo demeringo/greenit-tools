@@ -1,8 +1,8 @@
-# Aguaro - My IT Footprint
+# Verdikt
 
-## Lien 
+## Lien
 
-https://aguaro.io/fr
+https://verdikt.io/
 
 ## Créé par
 
@@ -10,7 +10,6 @@ https://aguaro.io/fr
 
 ## Description
 
-Agaro est une solution fonctionnant sur ServiceNow pour vous aider à mesurer et réduire votre impact carbone et vos déchets électroniques
 
 ## Modèle économique
 

@@ -1,16 +1,14 @@
-# Aguaro - My IT Footprint
+# Tanaguru
 
-## Lien 
+## Lien
 
-https://aguaro.io/fr
+https://www.tanaguru.com/en/open-source-tools-tanaguru/
 
 ## Créé par
 
 
-
 ## Description
 
-Agaro est une solution fonctionnant sur ServiceNow pour vous aider à mesurer et réduire votre impact carbone et vos déchets électroniques
 
 ## Modèle économique
 
