@@ -59,7 +59,7 @@ Le calcul de l'empreinte est réalisée via une formule implémentée dans le co
 
 - Ne peut analyser qu'une page publique à fois (problème contournable via GreenIT Analysis)
 - Lent
-- L'empreinte environnementale ne peut pas être juste puisqu'elle est calculée avec une formule « magique » (mais pour un outil aussi rapide il est difficile de faire mieux)
+- L'empreinte environnementale ne peut pas être juste (mais pour un outil aussi rapide il est difficile de faire mieux)
 - L'ACV source n'est pas publique et commence à dater
 
 ## Commentaires
